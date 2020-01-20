@@ -1,0 +1,2 @@
+cobol/*.cbl zos-working-tree-encoding=ibm-1047 git-encoding=utf-8
+cobol/imsonln2.cbl binary
