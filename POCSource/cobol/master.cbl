@@ -1,6 +1,7 @@
       *******************************************************************
 000010***                                                               00000100
 000020**** LOOKUP SUPPLR MASTER                                         00000200
+      **** DBB Foundation Commit
 000070**** 06/94 REM RE-LO-SEPAC-SUPPLR-ID AND REPLACE THOSE 4 POSITIONS00000500
 000070****       WITH 2 FIELDS: RE-LO-PRIMARY-PRCE1-MGR, PIC 9(3) AND   00000500
 000070****       RE-LO-IMP-EXP-IND, PIC X. REM RE-LO-SIGN-OFF-LEVELS AND00000500
